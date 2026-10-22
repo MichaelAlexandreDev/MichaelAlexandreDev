@@ -50,7 +50,7 @@
 
 I'm **Michael Alexandre Schimitt** — a **Computer Science undergraduate at UniFil** and a **backend developer** working with **Java, Go and Python**.
 
-I build **backend APIs and local tools**, with a strong interest in **transactions**, **concurrency** and **cloud systems**. My projects cover atomic wallet transfers with ordered row locks, multi-region AWS inventory with partial-failure handling, and a local EPUB translator backed by **330 automated tests**.
+I build **backend APIs and local tools**, with a strong interest in **transactions**, **concurrency** and **cloud systems**. My projects cover atomic wallet transfers with ordered row locks, multi-region AWS inventory with partial-failure handling, and a local EPUB translator backed by **468 automated tests**.
 
 I'm currently **open to internships and junior backend roles**.
 
@@ -169,8 +169,8 @@ open_to:   Internships · Junior Backend
 
 | 🔗 Project | 🛠️ Stack | 📝 What it does |
 |:---|:---|:---|
-| **[Wallet API](https://github.com/MichaelAlexandreDev/wallet-api)** | `Java` `Spring` `PostgreSQL` | Atomic wallet transfers with ordered row locks, external authorization and persistent notification retries. **49 tests.** |
-| **[Ayvu](https://github.com/MichaelAlexandreDev/ayvu)** | `Python` `SQLite` | Local EPUB translation that keeps the original intact, with SQLite cache, translation memory, CSV review and output validation. **330 automated tests.** |
+| **[Wallet API](https://github.com/MichaelAlexandreDev/wallet-api)** | `Java` `Spring` `PostgreSQL` | Atomic wallet transfers with idempotency keys, ordered row locks, external authorization and bounded notification retries. **58 tests.** |
+| **[Ayvu](https://github.com/MichaelAlexandreDev/ayvu)** | `Python` `SQLite` | Local EPUB translation that keeps the original intact, with SQLite cache, translation memory, CSV review and output validation. **468 automated tests.** |
 | **[Tailwarden](https://github.com/MichaelAlexandreDev/tailwarden)** | `Go` `AWS` | AWS Lambda inventory across regions with pagination, separate worker limits for regions and tags, and partial-failure warnings. **16 tests.** |
 | **[Lume](https://github.com/MichaelAlexandreDev/Lume)** | `Java` | Tree-walk interpreter with inferred static types, explicit trait composition and checked modules. **191 integration scenarios.** |
 | **[HookForge](https://github.com/MichaelAlexandreDev/hookforge)** | `Java` `Spring Boot` | Platform for managing projects and endpoints and receiving webhooks. **In active development.** |
