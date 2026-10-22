@@ -3,7 +3,7 @@
 <!-- ============================================================ -->
 <div align="center">
 
-# Michael Salvador
+# Michael Alexandre Schimitt
 
 #### Backend Developer · Computer Science Undergraduate · Brazil
 
@@ -48,7 +48,7 @@
 
 ## 👋 Who I Am
 
-I'm **Michael Salvador** — a **Computer Science undergraduate at UniFil** and a **backend developer** working with **Java, Go and Python**.
+I'm **Michael Alexandre Schimitt** — a **Computer Science undergraduate at UniFil** and a **backend developer** working with **Java, Go and Python**.
 
 I build **backend APIs and local tools**, with a strong interest in **transactions**, **concurrency** and **cloud systems**. My projects cover atomic wallet transfers with ordered row locks, multi-region AWS inventory with partial-failure handling, and a local EPUB translator backed by **330 automated tests**.
 
@@ -60,7 +60,7 @@ I'm currently **open to internships and junior backend roles**.
 ## ⚡ At a Glance
 
 ```yaml
-name:      Michael Salvador
+name:      Michael Alexandre Schimitt
 role:      Backend Developer
 education: CS @ UniFil
 location:  Brazil
